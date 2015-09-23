@@ -1,17 +1,3 @@
-# Header
-## H2
-### H3
-#### H4
+#Image Folder Information
 
-**Bold**
-*Italic*
-***Bold and Italic***
-
-
-```
-void main(int)
-{
-   print("aklfjalfj");
-}
-
-```
+**Please** do not commit copyrighted materials here or you will be sued!
